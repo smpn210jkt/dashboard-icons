@@ -9,8 +9,7 @@ We appreciate your interest in contributing to our icon repository! To ensure sm
   - Conversely, if a `PNG` version is missing, it can be generated using [Ezgif SVG to PNG](#-converting-svg-to-png).
 - `PNG`s should maintain a height of exactly `512px`, while width can vary. However, a 1:1 aspect ratio is preferred.
   - ❗ Avoid upscales! Exceptions will be made only if the correct or a downscaled version cannot be obtained.
-  - Downsizing can be accomplished using [iLoveIMG Resize](#-downscaling-pngs).
-- Icons should be named using the [Kebab Case](https://wiki.c2.com/?KebabCase) convention, reflecting their full name. For instance, "Facebook Messenger" should be named `facebook-messenger.png`.
+- Icons should be named using the convention, reflecting their full name. For instance, "Facebook Messenger" should be named `facebook-messenger.png`.
 - Icons that are predominantly monochrome should default to a dark version. Light versions should be named `name-light.png`. If a light version is not available, use [https://pinetools.com/colorize-image](https://pinetools.com/colorize-image) to adjust its color.
 
 ## 💻 Gitmoji Commits
