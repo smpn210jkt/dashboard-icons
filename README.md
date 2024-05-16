@@ -1,8 +1,8 @@
 <div align="center">
   <h2 align="center"> 🚀 Dashboard Icons </h2>
   <p align="center">
-    <a href="https://www.jsdelivr.com/package/gh/walkxcode/dashboard-icons">
-      <img src="https://img.shields.io/jsdelivr/gh/hy/walkxcode/dashboard-icons?color=%23A020F0" alt="JSdelivr weekly downloads badge">
+    <a href="https://www.jsdelivr.com/package/gh/smpn210jkt/dashboard-icons">
+      <img src="https://img.shields.io/jsdelivr/gh/hy/smpn210jkt/dashboard-icons?color=%23A020F0" alt="JSdelivr weekly downloads badge">
     </a>
   </p>
   <p align="center">
@@ -42,16 +42,16 @@ For non-desktop operating systems or those who prefer using the terminal:
 *Replace `example` with the icon's name, and `png` with `svg` if needed.*
 
 ```sh
-curl -O https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/example.png
+curl -O https://cdn.jsdelivr.net/gh/smpn210jkt/dashboard-icons/png/example.png
 ```
 
 or
 
 ```sh
-wget https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/example.png
+wget https://cdn.jsdelivr.net/gh/smpn210jkt/dashboard-icons/png/example.png
 ```
 
-**💡 Tip!** Access Dashboard Icons online faster via `https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/example.png`, replacing `example` with the icon name!
+**💡 Tip!** Access Dashboard Icons online faster via `https://cdn.jsdelivr.net/gh/smpn210jkt/dashboard-icons/png/example.png`, replacing `example` with the icon name!
 
 ## 🎨 Icons
 **⚠️ Warning!**  Visiting this page will load every single icon in the repository. This may cause:
