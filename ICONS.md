@@ -15,7 +15,7 @@
 </p>
 <div align="center">
 <!-- ICONS -->
-<a href="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/3cx.png"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/3cx.png" alt="3cx" height="50"></a>  
+<a href="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/icon-absensi.png"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/icon-absensi.png" alt="3cx" height="50"></a>  
 <!-- END ICONS -->
 </div>
 
