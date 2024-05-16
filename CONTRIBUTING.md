@@ -47,4 +47,4 @@ Kindly note that contributing to this repository necessitates adherence to our c
 
 ---
 
-Should you have any queries or concerns, feel free to reach out to me using walkxnl@gmail.com. Happy contributing! 🙌
+Should you have any queries or concerns, feel free to reach out to me using smpn210jkt@gmail.com. Happy contributing! 🙌
